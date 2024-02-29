@@ -1,0 +1,144 @@
+Animal 1: 
+Age: 4
+Species: Hyena
+Sex: female
+Season: spring
+Color: tan
+Weight: 70
+Origin: Friguia Park, Tunisia
+
+Animal 2: 
+Age: 12
+Species: Hyena
+Sex: male
+Season: fall
+Color: brown
+Weight: 150
+Origin: Friguia Park, Tunisia
+
+Animal 3: 
+Age: 4
+Species: Hyena
+Sex: male
+Season: spring
+Color: black
+Weight: 120
+Origin: Friguia Park, Tunisia
+
+Animal 4: 
+Age: 8
+Species: Hyena
+Sex: female
+Season: season
+Color: black and tan striped
+Weight: 105
+Origin: Friguia Park, Tunisia
+
+Animal 5: 
+Age: 6
+Species: Lion
+Sex: female
+Season: spring
+Color: tan
+Weight: 300
+Origin: Zanzibar, Tanzania
+
+Animal 6: 
+Age: 12
+Species: Lion
+Sex: female
+Season: winter
+Color: dark tan
+Weight: 375
+Origin: KopeLion, Tanzania
+
+Animal 7: 
+Age: 22
+Species: Lion
+Sex: male
+Season: fall
+Color: golden
+Weight: 450
+Origin: Zanzibar, Tanzania
+
+Animal 8: 
+Age: 4
+Species: Lion
+Sex: female
+Season: spring
+Color: tan and brown
+Weight: 275
+Origin: KopeLion, Tanzania
+
+Animal 9: 
+Age: 2
+Species: Tiger
+Sex: male
+Season: spring
+Color: gold and tan stripes
+Weight: 270
+Origin: Dhaka, Bangladesh
+
+Animal 10: 
+Age: 4
+Species: Tiger
+Sex: female
+Season: spring
+Color: black stripes
+Weight: 400
+Origin: Dhaka, Bangladesh
+
+Animal 11: 
+Age: 18
+Species: Tiger
+Sex: male
+Season: fall
+Color: gold and tan
+Weight: 300
+Origin: Bardia, Nepal
+
+Animal 12: 
+Age: 3
+Species: Tiger
+Sex: female
+Season: spring
+Color: black stripes
+Weight: 285
+Origin: Bardia, Nepal
+
+Animal 13: 
+Age: 7
+Species: Bear
+Sex: male
+Season: spring
+Color: brown
+Weight: 320
+Origin: Alaska Zoo, Alaska
+
+Animal 14: 
+Age: 25
+Species: Bear
+Sex: female
+Season: spring
+Color: black
+Weight: 425
+Origin: Woodland park Zoo, Washington 
+
+Animal 15: 
+Age: 4
+Species: Bear
+Sex: female
+Season: fall
+Color: black
+Weight: 355
+Origin: Woodland park Zoo, Washington 
+
+Animal 16: 
+Age: 4
+Species: Bear
+Sex: male
+Season: spring
+Color: brown
+Weight: 405
+Origin: Alaska Zoo, Alaska
+
